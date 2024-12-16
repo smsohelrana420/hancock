@@ -1,0 +1,417 @@
+
+@media (min-width:320px) and (max-width:667px) {
+    .togglebtn{
+        background: #fff;
+    }
+    .menubar{
+        background-color: #FF4655;
+    }
+    .navbar-nav{
+        text-align: center;
+        gap: 10px;
+    }
+    .nav-icon{
+        display: flex;
+        justify-content: center;
+    }
+    #banner .banner_wrapper h2 {
+        padding-top: 138px;
+    }
+    .banner-icon {
+        margin-top: -261px;
+    }
+    #banner .banner_wrapper h1 {
+        font-size: 40px;
+
+    }
+    #banner .banner_wrapper p {
+        width: 380px;
+        font-size: 14px;
+        
+    }
+    header nav {
+        z-index: 999;
+    }
+    #about .about-title h2 {
+        font-size: 25px;
+        width: 400px;
+        
+    }
+    #about .about-title h2::after {
+        display: none;
+    }
+    .about-image img{
+        
+        width: 380px;
+        
+    }
+    .about-image span::before {
+        display: none;
+    }
+
+    .about-image span::after {
+        display: none;
+    }
+    .about-text h3 {
+        width: 300px;
+    }
+    .about-text p {
+        width: 380px;
+    }
+    .count1 {
+        width: 176px;
+        
+    }
+    .count2 {
+        
+        width: 171px;
+        left: 204px;
+        position: absolute;
+    }
+    .count1 h2::after {
+        right: 28px;
+        
+    }
+    .count2 h2::after {
+        right: 28px;
+        
+    }
+    .count3 h2::after {
+        right: 20px;
+        
+    }
+    .count4 h2::after {
+        right: 28px;
+        
+    }
+    .count3 {
+        width: 173px;
+        margin-top: 10px;
+        margin-left: 5px;
+        
+    }
+    .count4 {
+        width: 173px;
+        position: absolute;
+        left: 206px;
+        margin-top: 10px;
+    }
+    .games-title h2 {
+        margin-left: -11px;
+        padding-top: 40px;
+    }
+    .nexticon {
+        left: -960px;
+        bottom: -46px;
+        position: absolute;
+    }
+    .previcon {
+        position: absolute;
+        left: -961px;
+        bottom: -16px;
+    }
+    .slide2 img {
+        margin-top: 0;
+        width: 380px;
+    }
+    .slide1 img {
+       
+        width: 380px;
+    }
+    .steamin-title h2 {
+        width: 301px;
+        font-size: 24px;
+        margin-top: -62px;
+    }
+    .steamin-title h2::after {
+        left: 86px;
+        bottom: 5px;
+    }
+    .tournament1image {
+    
+        width: 400px;
+    }
+    .tournament2image {
+        width: 139px;
+    }
+    .tournament3image {
+        width: 173px;
+    }
+    .team1 {
+        width: 420px;
+    }
+    .team2 {
+        width: 400px;
+    }
+    .team1 h2 {
+        margin-left: 121px;
+    }
+    .team2 h2 {
+        margin-left: 51px;
+    }
+    .time1 h3 {
+        margin-left: 139px;
+        margin-top: 13px;
+    }
+    .fridaygallery {
+        margin-top: -101px;
+    }
+    .catalogimage {
+        padding-top: 251px;
+        margin-top: 72px;
+        margin-left: -8px;
+    }
+    .catalog-text h2 {
+       
+        font-size: 20px;
+        width: 356px;
+    }
+    .catalog-text p {
+    
+        width: 311px;
+    }
+    .catalog-game {
+        margin-left: -12px;
+    }
+    #catalog {
+        width: 433px;
+    }
+    #sec6 .slides .card {
+        width: 400px;
+    }
+    #sec6 .title h2 {
+        width: 365px;
+        font-size: 30px;
+       
+    }
+    #sec6 .title h2::after {
+        top: 150px;
+        left: 155px;
+    }
+    .tournament1image {
+        width: 350px;
+        margin-left: -13px;
+    }
+    #sec6 .item_slideshow .next {
+        position: absolute;
+        bottom: 358px;
+        left: 377px;
+        width: 45px;
+        height: 45px;
+    }
+    .team-1 img{
+        width: 400px;
+    }
+    .team-3 img{
+        width: 400px;
+    }
+    .team-4 img{
+        width: 400px;
+    }
+    .team1text {
+        margin-top: -174px;
+        padding: 33px;
+        width: 400px;
+    }
+    .team-1 .icon ul {
+        
+        gap: 10px;
+    }
+    .team-1 .icon {
+        margin-left: 118px;
+        margin-top: -28px;
+    }
+    .team1text h3 {
+        font-size: 14px;
+    }
+    .team1text p {
+        width: 273px;
+        font-size: 14px;
+        
+    }
+    .team-2 img{
+        width: 400px;
+    }
+    .team2text {
+        margin-top: -88px;
+        padding: 22px;
+        width: 400px;
+    }
+    .team3text {
+        width: 400px;
+    }
+    .team4text {
+        width: 400px;
+    }
+    .frequently-title h2 {
+        width: 369px;
+        font-size: 27px;
+    }
+    .frequently-title h2::after {
+        width: 87px;
+        left: 218px;
+        bottom: 5px;
+    }
+    .questionnumber a {
+        
+        font-size: 11px;
+        width: 17px;
+        
+    }
+    .questiontext1 h6 {
+        font-size: 15px;
+    }
+    .questiontext1 p {
+        font-size: 16px;
+        width: 231px;
+    }
+    .questiontext2 h6 {
+        font-size: 15px;
+        
+    }
+    .questiontext2 p {
+        font-size: 14px;
+        width: 258px;
+    }
+    .questiontext3 h6 {
+        font-size: 15px;
+    }
+    .questiontext4 h6 {
+        font-size: 15px;
+    }
+    .questiontext3 p {
+        font-size: 14px;
+        width: 235px;
+    }
+    .questionnumber4 a {
+        font-size: 15px;
+        
+        width: 17px;
+       
+    }
+    .questiontext4 p {
+        font-size: 14px;
+        width: 309px;
+        
+    }
+    .footer-content {
+       
+        padding: 10px;
+        width: 400px;
+    }
+    .footertop-text h2 {
+       
+        font-size: 14px;
+      
+        width: 311px;
+      
+    }
+
+    .footer-btn input {
+        width: 318px;
+        
+    }
+    .footer-btn {
+        margin-left: 4px;
+    }
+    #footer-top {
+        margin-top: -63px;
+    }
+    .footercontent h2::after {
+        
+        left: 91px;
+      
+    }
+    
+    .footercontent p {
+        width: 421px;
+        font-size: 14px;
+    }
+    .footerteams {
+        margin-left: 0px;
+    }
+    .footer-gallery {
+        margin-left: 2px;
+    }
+    .footerend p {
+        text-align: start;
+        font-size: 22px;
+    }
+    .footerend hr {
+        margin-top: 80px;
+        width: 400px;
+    }
+    .professional-title h2 {
+        margin-top: -50px;
+        margin-left:0;
+    }
+    .footerlinks ul {
+        display: flex;
+        gap: 15px;
+    }
+    .footerteams ul {
+        display: flex;
+        gap: 15px;
+    }
+   .team1 {
+    width: 100%;
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+}
+   .team2 {
+    width: 100%;
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+}
+   .team-3 {
+    width: 100%;
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+}
+#banner .banner_wrapper h1::after {
+    display: none;
+}
+.black-fridayimag1{
+    margin-top: 127px;
+    
+}
+.nexticon {
+    background-color: #DDDDDD;
+    
+}
+.nexticon {
+    left: -104px;
+    bottom: -28px;
+    
+}
+.count2 {
+    left: 279px;
+    width: 50%;
+}
+.count1 {
+    width: 100%;
+}
+.count3 {
+    width: 100%;
+   
+}
+.count4 {
+    width: 50%;
+    
+    left: 286px;
+   
+}
+.slide1 img {
+    width: 100%;
+}
+.slide2 img {
+    width: 100%;
+}
+.previcon {
+   
+    left: -765px;
+    bottom: -299px;
+}
+.nexticon {
+    left: -35px;
+    bottom: -309px;
+}
+}
+
