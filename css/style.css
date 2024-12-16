@@ -39,7 +39,7 @@ header nav ul li .nav-link{
 /* ==================== Banner Start ========================== */
 
 #banner{
-    background-image: url("/images/banner.png");
+    background: url("../images/banner.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -79,7 +79,7 @@ header nav ul li .nav-link{
     margin-top: 5px;
 
 }
-#banner .banner_wrapper a{
+.banner_wrapper a{
     background-color: #fff;
     padding: 13px 43px 13px 24px ;
     display: inline-block;
